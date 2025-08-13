@@ -38,13 +38,15 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "npm.Next.js: server-side.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "D:\\web1interview\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web1interview\components" />
       <recent name="D:\web1interview\app\(root)" />
       <recent name="D:\web1interview\app" />
     </key>
@@ -82,6 +84,9 @@
       <workItem from="1754994757950" duration="47000" />
       <workItem from="1755002698420" duration="4979000" />
       <workItem from="1755008328112" duration="4481000" />
+      <workItem from="1755052800789" duration="6879000" />
+      <workItem from="1755062794217" duration="1738000" />
+      <workItem from="1755071523777" duration="4453000" />
     </task>
     <servers />
   </component>
