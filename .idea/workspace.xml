@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2367e4ce-32d1-4840-a9a2-21164bbf3252" name="Changes" comment="" />
+    <list default="true" id="2367e4ce-32d1-4840-a9a2-21164bbf3252" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,7 @@
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
     &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/web1interview&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -87,6 +91,12 @@
       <workItem from="1755052800789" duration="6879000" />
       <workItem from="1755062794217" duration="1738000" />
       <workItem from="1755071523777" duration="5092000" />
+      <workItem from="1755076668515" duration="1127000" />
+      <workItem from="1755085525284" duration="20000" />
+      <workItem from="1756632825446" duration="607000" />
+      <workItem from="1756640183382" duration="45000" />
+      <workItem from="1756651643354" duration="3509000" />
+      <workItem from="1756721311241" duration="472000" />
     </task>
     <servers />
   </component>

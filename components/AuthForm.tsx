@@ -66,13 +66,13 @@ const AuthForm = ({type}:{type:FormType}) => {
                         height={32}
                         width={38}
                     />
-                    <h2 className="text-primary-100">Em-interview</h2>
+                    <h2 className="text-primary-100">Emterview</h2>
                 </div>
                 <h3 >for interview practice,made by em</h3>
                 <Form {...form}>
                     <form onSubmit={form.handleSubmit(onSubmit)}
                           className="w-full space-y-6 mt-4 form">
-                        {!isSignIn && (
+                        { !isSignIn && (
                             <FormField
                                 control={form.control }
                                 name="name"
